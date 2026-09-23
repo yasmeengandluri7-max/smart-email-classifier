@@ -1,0 +1,1201 @@
+email_text,category,sentiment
+"Hey there, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+"Dear team, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+How do I reset my password? I forgot it.,Customer Support,Neutral
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+How do I reset my password? I forgot it.,Customer Support,Neutral
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+"Hi, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+"Hey there, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Hello, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Hello, I am disappointed with the delay in the project delivery. We need to discuss this.",Work,Negative
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Hey there, Critical update regarding the company policy changes starting next month.",Important,Neutral
+"Hey there, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Hey, are we still on for dinner tonight at 2 PM?",Personal,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+Make money from home with zero investment. Join our scheme today.,Spam,Neutral
+"Hello, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hi, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+"Hello, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+"Hey there, The software update completely broke my application workflow.",Complaint,Negative
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+"Dear team, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+"Dear team, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+The product I received is damaged. I want a full refund immediately.,Complaint,Negative
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+Critical update regarding the company policy changes starting next month.,Important,Neutral
+"Hi, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+"Dear team, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+Action Required: Update your account security settings before the deadline.,Important,Neutral
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+"Hi, I am looking forward to our catch-up meeting next week.",Meeting,Positive
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+"Dear team, Can you pick up some groceries on your way back?",Personal,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+"Hello, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Hey there, Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Dear team, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+"Hi, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+"Hey there, How do I reset my password? I forgot it.",Customer Support,Neutral
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+"Hello, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Dear team, Here is the recipe for the chocolate cake.",Other,Neutral
+"Hey there, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Hi, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Hey, are we still on for dinner tonight at 10 AM?",Personal,Neutral
+"Dear team, Do you know what time the library closes today?",Other,Neutral
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+"Dear team, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hello, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+"Hey there, I am disappointed with the delay in the project delivery. We need to discuss this.",Work,Negative
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+Let's schedule a meeting for Monday at 2 PM to discuss the roadmap.,Meeting,Neutral
+I am looking forward to our catch-up meeting Thursday.,Meeting,Positive
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Hello, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+Check out our new collection of winter wear.,Promotion,Neutral
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+I left my umbrella at the office.,Other,Neutral
+"Hi, Great job on the presentation today! The client was very impressed.",Work,Positive
+"Hello, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Hey there, Critical update regarding the company policy changes starting next month.",Important,Neutral
+I am looking forward to our catch-up meeting Wednesday.,Meeting,Positive
+"Hello, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+"Hi, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Dear team, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+"Dear team, Let's schedule a meeting for Monday at 4:30 PM to discuss the roadmap.",Meeting,Neutral
+"Hi, Here is the recipe for the chocolate cake.",Other,Neutral
+"Hello, I left my umbrella at the office.",Other,Neutral
+"Hello, Let's schedule a meeting for Monday at 9 AM to discuss the roadmap.",Meeting,Neutral
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+"Hey there, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+"Hello, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+"Hello, The software update completely broke my application workflow.",Complaint,Negative
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+The weather looks nice outside.,Other,Positive
+The product I received is damaged. I want a full refund immediately.,Complaint,Negative
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+"Dear team, Here is the recipe for the chocolate cake.",Other,Neutral
+"Hi, Do you know what time the library closes today?",Other,Neutral
+"Hello, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Dear team, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hi, Critical update regarding the company policy changes starting next month.",Important,Neutral
+"Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Dear team, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+"Hello, Congratulations on passing the final exam with flying colors!",Education,Positive
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+Great job on the presentation today! The client was very impressed.,Work,Positive
+"Hi, The weather looks nice outside.",Other,Positive
+"Dear team, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+"Hey there, How do I reset my password? I forgot it.",Customer Support,Neutral
+"Dear team, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+"Hey there, Action Required: Update your account security settings before the deadline.",Important,Neutral
+"Hey there, I am disappointed with the delay in the project delivery. We need to discuss this.",Work,Negative
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hi, Can you pick up some groceries on your way back?",Personal,Neutral
+"Dear team, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hi, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+"Hi, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+"Hi, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+Do you know what time the library closes today?,Other,Neutral
+"Dear team, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+"Hey there, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+"Hi, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hello, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+Just testing if this email address works.,Other,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Hello, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+"You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+Your invoice #4923 is attached. Please process the payment by the 15th.,Finance,Neutral
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+Your invoice #4923 is attached. Please process the payment by the 15th.,Finance,Neutral
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Hi, The weather looks nice outside.",Other,Positive
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"Hi, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+"Hi, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+The lecture has been rescheduled to Thursday at 14:30 PM in Room 302.,Education,Neutral
+"Hello, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+"Hey there, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+Do you know what time the library closes today?,Other,Neutral
+"Hello, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Hi, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+"Dear team, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+"Dear team, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+"Hello, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+Congratulations on passing the final exam with flying colors!,Education,Positive
+Congratulations on passing the final exam with flying colors!,Education,Positive
+"Hello, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+"Hello, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+"Hey there, My internet connection keeps dropping every five minutes. Fix it.",Complaint,Negative
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+"Hey there, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Hello, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+"Hi, My internet connection keeps dropping every five minutes. Fix it.",Complaint,Negative
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hey there, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+"Hello, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+"Hey there, Great job on the presentation today! The client was very impressed.",Work,Positive
+The software update completely broke my application workflow.,Complaint,Negative
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+"Hi, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+"Hello, The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Dear team, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+I left my umbrella at the office.,Other,Neutral
+"Dear team, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hello, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+The software update completely broke my application workflow.,Complaint,Negative
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Hi, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+"Hi, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+"Hi, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+"Hello, Action Required: Update your account security settings before the deadline.",Important,Neutral
+"Hello, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Dear team, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Dear team, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+The software update completely broke my application workflow.,Complaint,Negative
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+Action Required: Update your account security settings before the deadline.,Important,Neutral
+"Hi, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Hey there, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+"Hey there, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+"Hello, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hi, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+Can you pick up some groceries on your way back?,Personal,Neutral
+Just testing if this email address works.,Other,Neutral
+"Dear team, Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"Hey there, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+"Dear team, I am looking forward to our catch-up meeting next week.",Meeting,Positive
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+Let's schedule a meeting for Tuesday at 9 AM to discuss the roadmap.,Meeting,Neutral
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+"Dear team, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hello, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+"Dear team, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+"Hello, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Hello, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Hello, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+"Hello, My internet connection keeps dropping every five minutes. Fix it.",Complaint,Negative
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Hey there, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+"Hey, are we still on for dinner tonight at 4:30 PM?",Personal,Neutral
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hi, Action Required: Update your account security settings before the deadline.",Important,Neutral
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+"Hey there, How do I reset my password? I forgot it.",Customer Support,Neutral
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+"Hey there, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Hello, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Dear team, The lecture has been rescheduled to Wednesday at 9 AM in Room 302.",Education,Neutral
+"Hey there, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+"Hi, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+Congratulations on passing the final exam with flying colors!,Education,Positive
+"Hey, are we still on for dinner tonight at 10 AM?",Personal,Neutral
+Let's schedule a meeting for Tuesday at 2 PM to discuss the roadmap.,Meeting,Neutral
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+"Hey there, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+"Hey there, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+"Hi, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+"Dear team, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+"Hi, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Hey, are we still on for dinner tonight at 9 AM?",Personal,Neutral
+"Hey there, Do you know what time the library closes today?",Other,Neutral
+"Hey there, Critical update regarding the company policy changes starting next month.",Important,Neutral
+I am looking forward to our catch-up meeting Friday.,Meeting,Positive
+"Hi, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+"Hi, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+Do you know what time the library closes today?,Other,Neutral
+The software update completely broke my application workflow.,Complaint,Negative
+"Hello, Can you send me the latest source code for the new feature?",Work,Neutral
+"Hello, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+"Hello, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hi, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+"Hello, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+I left my umbrella at the office.,Other,Neutral
+"Dear team, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+"Hey there, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+"Dear team, Congratulations on passing the final exam with flying colors!",Education,Positive
+"Hi, Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"Hey there, The weather looks nice outside.",Other,Positive
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+Can you send me the latest source code for the new feature?,Work,Neutral
+"Hello, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+"Hi, Can you pick up some groceries on your way back?",Personal,Neutral
+"Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hi, How do I reset my password? I forgot it.",Customer Support,Neutral
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+"Hey there, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+"Hi, The lecture has been rescheduled to Friday at 9 AM in Room 302.",Education,Neutral
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+Action Required: Update your account security settings before the deadline.,Important,Neutral
+"Hello, It was wonderful seeing you over the weekend. Let's catch up again soon!",Personal,Positive
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+Here is the zoom link for our daily standup at 9:30 AM.,Meeting,Neutral
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hello, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+"Hey there, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+Here is the zoom link for our daily standup at 9:30 AM.,Meeting,Neutral
+Our Black Friday sale starts now! Don't miss out on these huge discounts.,Promotion,Positive
+"Dear team, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"Hey there, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+"Hi, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+"Hey there, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+"Hey, are we still on for dinner tonight at 2 PM?",Personal,Neutral
+"Hello, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+"Hey there, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+How do I reset my password? I forgot it.,Customer Support,Neutral
+The lecture has been rescheduled to Tuesday at 19 AM in Room 302.,Education,Neutral
+"Hi, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"Dear team, The weather looks nice outside.",Other,Positive
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+"Hey there, I am looking forward to our catch-up meeting Monday.",Meeting,Positive
+"Hello, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+Congratulations on passing the final exam with flying colors!,Education,Positive
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hello, Congratulations on passing the final exam with flying colors!",Education,Positive
+"Hey there, Check out our new collection of winter wear.",Promotion,Neutral
+"Dear team, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+"Hey there, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Hey there, My internet connection keeps dropping every five minutes. Fix it.",Complaint,Negative
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+"Hi, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+"Dear team, The lecture has been rescheduled to Thursday at 9 AM in Room 302.",Education,Neutral
+Here is the recipe for the chocolate cake.,Other,Neutral
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+"Hey there, The weather looks nice outside.",Other,Positive
+"Hello, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+"Hey there, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Hey there, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+"Hi, Let's schedule a meeting for Wednesday at 12 PM to discuss the roadmap.",Meeting,Neutral
+Let's schedule a meeting for Monday at 4:30 PM to discuss the roadmap.,Meeting,Neutral
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+"Hey there, Thank you for resolving my issue so quickly! Great support.",Customer Support,Positive
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hi, The lecture has been rescheduled to Monday at 9 AM in Room 302.",Education,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Dear team, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hello, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+"Hello, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+I am looking forward to our catch-up meeting Thursday.,Meeting,Positive
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+"Hello, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+"Hey there, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+"Dear team, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+"Dear team, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+Do you know what time the library closes today?,Other,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+How do I reset my password? I forgot it.,Customer Support,Neutral
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Hey there, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+"Hey there, Can you pick up some groceries on your way back?",Personal,Neutral
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+"Hey there, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+"Hello, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+Do you know what time the library closes today?,Other,Neutral
+"Hey there, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"Hi, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+"Hey there, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+Our Black Friday sale starts now! Don't miss out on these huge discounts.,Promotion,Positive
+"Hey there, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Hello, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Dear team, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+"Hello, Check out our new collection of winter wear.",Promotion,Neutral
+"Dear team, Just testing if this email address works.",Other,Neutral
+"Dear team, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Hey there, The lecture has been rescheduled to Tuesday at 4:30 PM in Room 302.",Education,Neutral
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hey there, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+Do you know what time the library closes today?,Other,Neutral
+"Hey there, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+"Hey there, The software update completely broke my application workflow.",Complaint,Negative
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+"Hello, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+Your invoice #4923 is attached. Please process the payment by the 15th.,Finance,Neutral
+"Dear team, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hi, The weather looks nice outside.",Other,Positive
+"Hi, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Dear team, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+"Hello, How do I reset my password? I forgot it.",Customer Support,Neutral
+"Hi, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+"Hi, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+Your invoice #4923 is attached. Please process the payment by the 15th.,Finance,Neutral
+"Hey there, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+I left my umbrella at the office.,Other,Neutral
+"Dear team, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+"Hi, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+"Dear team, Action Required: Update your account security settings before the deadline.",Important,Neutral
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+The lecture has been rescheduled to Monday at 9 AM in Room 302.,Education,Neutral
+"Hi, Here is the recipe for the chocolate cake.",Other,Neutral
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+"Dear team, How do I reset my password? I forgot it.",Customer Support,Neutral
+"Dear team, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+Do you know what time the library closes today?,Other,Neutral
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+"Hey there, Congratulations on passing the final exam with flying colors!",Education,Positive
+Let's schedule a meeting for Tuesday at 2 PM to discuss the roadmap.,Meeting,Neutral
+"Dear team, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Dear team, Can you send me the latest source code for the new feature?",Work,Neutral
+"Hello, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+"Hey there, Great job on the presentation today! The client was very impressed.",Work,Positive
+"Hi, I am looking forward to our catch-up meeting Monday.",Meeting,Positive
+"Hello, Can you send me the latest source code for the new feature?",Work,Neutral
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+"Hello, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+"Hello, Here is the recipe for the chocolate cake.",Other,Neutral
+"Hello, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Hey there, Do you know what time the library closes today?",Other,Neutral
+How do I reset my password? I forgot it.,Customer Support,Neutral
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+"Hello, How do I reset my password? I forgot it.",Customer Support,Neutral
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+"Hey, are we still on for dinner tonight at 10 AM?",Personal,Neutral
+The lecture has been rescheduled to Monday at 10 AM in Room 302.,Education,Neutral
+The weather looks nice outside.,Other,Positive
+"Hey, are we still on for dinner tonight at 9 AM?",Personal,Neutral
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+"Dear team, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hey there, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+"Dear team, Do you know what time the library closes today?",Other,Neutral
+Do you know what time the library closes today?,Other,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Hello, Here is the recipe for the chocolate cake.",Other,Neutral
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+"Hey there, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"Hey, are we still on for dinner tonight at 4:30 PM?",Personal,Neutral
+"Dear team, The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+"Hey there, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+"Hi, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Hello, Here is the recipe for the chocolate cake.",Other,Neutral
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+"Dear team, The weather looks nice outside.",Other,Positive
+"Hey there, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Hey there, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Hi, Just testing if this email address works.",Other,Neutral
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hey there, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+"Hello, It was wonderful seeing you over the weekend. Let's catch up again soon!",Personal,Positive
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Hello, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hi, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hello, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Dear team, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Dear team, Critical update regarding the company policy changes starting next month.",Important,Neutral
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+"Hi, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+"Hi, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+"Hey there, Check out our new collection of winter wear.",Promotion,Neutral
+"Dear team, Can you send me the latest source code for the new feature?",Work,Neutral
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+"Hey there, The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hello, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Hi, Action Required: Update your account security settings before the deadline.",Important,Neutral
+"Hello, Do you know what time the library closes today?",Other,Neutral
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hi, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Dear team, The lecture has been rescheduled to Thursday at 9 AM in Room 302.",Education,Neutral
+"Dear team, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hello, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+Check out our new collection of winter wear.,Promotion,Neutral
+"Hello, Do you know what time the library closes today?",Other,Neutral
+"Hi, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+"Dear team, Here is the recipe for the chocolate cake.",Other,Neutral
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+Great job on the presentation today! The client was very impressed.,Work,Positive
+Just testing if this email address works.,Other,Neutral
+"Dear team, Can you send me the latest source code for the new feature?",Work,Neutral
+"Hey there, Great job on the presentation today! The client was very impressed.",Work,Positive
+I am looking forward to our catch-up meeting Friday.,Meeting,Positive
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+"Dear team, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+"Hello, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+"Hello, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+"Hello, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+"Hey there, Check out our new collection of winter wear.",Promotion,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"Hello, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+"Dear team, The weather looks nice outside.",Other,Positive
+"Hey there, Can you send me the latest source code for the new feature?",Work,Neutral
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+Here is the zoom link for our daily standup at 9:30 AM.,Meeting,Neutral
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Hey there, How do I reset my password? I forgot it.",Customer Support,Neutral
+I am looking forward to our catch-up meeting Monday.,Meeting,Positive
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+"Hey there, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+"Hello, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"Hey there, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hello, The lecture has been rescheduled to Friday at 10 AM in Room 302.",Education,Neutral
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+"You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Hello, How do I reset my password? I forgot it.",Customer Support,Neutral
+"Dear team, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"Hey there, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+Great job on the presentation today! The client was very impressed.,Work,Positive
+"Hey there, The weather looks nice outside.",Other,Positive
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+"Dear team, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+"Hey, are we still on for dinner tonight at 10 AM?",Personal,Neutral
+"Dear team, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hey there, The software update completely broke my application workflow.",Complaint,Negative
+Let's schedule a meeting for Monday at 2 PM to discuss the roadmap.,Meeting,Neutral
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+Just testing if this email address works.,Other,Neutral
+"Dear team, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+"Dear team, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Hey there, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+"Hey there, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+"Hello, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+Can you send me the latest source code for the new feature?,Work,Neutral
+"Hello, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+The weather looks nice outside.,Other,Positive
+"Hey there, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+Critical update regarding the company policy changes starting next month.,Important,Neutral
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hi, Just testing if this email address works.",Other,Neutral
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+"Hi, Just testing if this email address works.",Other,Neutral
+"Dear team, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Dear team, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hello, Check out our new collection of winter wear.",Promotion,Neutral
+"Hi, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+The weather looks nice outside.,Other,Positive
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+Action Required: Update your account security settings before the deadline.,Important,Neutral
+"Hey there, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Dear team, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+"Hello, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+Our Black Friday sale starts now! Don't miss out on these huge discounts.,Promotion,Positive
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+Your invoice #4923 is attached. Please process the payment by the 15th.,Finance,Neutral
+"Dear team, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hi, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+"Hey there, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Dear team, My internet connection keeps dropping every five minutes. Fix it.",Complaint,Negative
+Can you pick up some groceries on your way back?,Personal,Neutral
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+How do I reset my password? I forgot it.,Customer Support,Neutral
+"Hello, Here is the recipe for the chocolate cake.",Other,Neutral
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hello, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+Let's schedule a meeting for next week at 10 AM to discuss the roadmap.,Meeting,Neutral
+"Hey there, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+"Dear team, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+"Dear team, I left my umbrella at the office.",Other,Neutral
+I am looking forward to our catch-up meeting tomorrow.,Meeting,Positive
+"Hey there, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hey there, I am looking forward to our catch-up meeting Wednesday.",Meeting,Positive
+Great job on the presentation today! The client was very impressed.,Work,Positive
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+I am looking forward to our catch-up meeting Wednesday.,Meeting,Positive
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+"Hi, Let's schedule a meeting for Friday at 2 PM to discuss the roadmap.",Meeting,Neutral
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+"Dear team, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+Critical update regarding the company policy changes starting next month.,Important,Neutral
+"Hi, Congratulations on passing the final exam with flying colors!",Education,Positive
+"Hey there, The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hello, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+How do I reset my password? I forgot it.,Customer Support,Neutral
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Hi, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+I am looking forward to our catch-up meeting Monday.,Meeting,Positive
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Hi, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+"Hello, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hey there, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+"Hey there, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+"Hey there, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+"Hi, The lecture has been rescheduled to Monday at 9 AM in Room 302.",Education,Neutral
+Just testing if this email address works.,Other,Neutral
+"Hi, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+The weather looks nice outside.,Other,Positive
+"Hey, are we still on for dinner tonight at 10 AM?",Personal,Neutral
+"Hey there, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+"Hey there, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+"Dear team, Congratulations on passing the final exam with flying colors!",Education,Positive
+"Hi, I left my umbrella at the office.",Other,Neutral
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+"Hi, Check out our new collection of winter wear.",Promotion,Neutral
+"Hello, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+My internet connection keeps dropping every five minutes. Fix it.,Complaint,Negative
+"Dear team, I am looking forward to our catch-up meeting Tuesday.",Meeting,Positive
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+"Hi, Just testing if this email address works.",Other,Neutral
+"Hi, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+"Hi, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+Do you know what time the library closes today?,Other,Neutral
+"Hey, are we still on for dinner tonight at 12 PM?",Personal,Neutral
+"Dear team, Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hey there, The lecture has been rescheduled to Monday at 2 PM in Room 302.",Education,Neutral
+The lecture has been rescheduled to Tuesday at 110 AM in Room 302.,Education,Neutral
+"Hi, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Hey there, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+Do you know what time the library closes today?,Other,Neutral
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+Can you pick up some groceries on your way back?,Personal,Neutral
+"You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Hi, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+"Hello, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+"Hey there, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+"Hello, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+I am looking forward to our catch-up meeting next week.,Meeting,Positive
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+"Hi, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+"Hi, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+Can you pick up some groceries on your way back?,Personal,Neutral
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+"Hello, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hi, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"Dear team, How do I reset my password? I forgot it.",Customer Support,Neutral
+Do you know what time the library closes today?,Other,Neutral
+The software update completely broke my application workflow.,Complaint,Negative
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+Your invoice #4923 is attached. Please process the payment by the 15th.,Finance,Neutral
+"Hello, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"Hey there, Let's schedule a meeting for Thursday at 2 PM to discuss the roadmap.",Meeting,Neutral
+"Dear team, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+"Hi, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+"Dear team, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hello, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hi, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+"Hi, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+Our Black Friday sale starts now! Don't miss out on these huge discounts.,Promotion,Positive
+"Dear team, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+"Hello, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hi, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+"Hey there, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+"Dear team, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+"Hey there, Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+Our Black Friday sale starts now! Don't miss out on these huge discounts.,Promotion,Positive
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+"Hey there, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+The lecture has been rescheduled to Wednesday at 112 PM in Room 302.,Education,Neutral
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+"Hey there, Great job on the presentation today! The client was very impressed.",Work,Positive
+"Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Hi, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+"Hello, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+I left my umbrella at the office.,Other,Neutral
+Do you know what time the library closes today?,Other,Neutral
+"Hello, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+"Hey there, Thank you for resolving my issue so quickly! Great support.",Customer Support,Positive
+"Hi, It was wonderful seeing you over the weekend. Let's catch up again soon!",Personal,Positive
+"Hello, Do you know what time the library closes today?",Other,Neutral
+"Hey there, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+"Dear team, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Hi, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+"Hello, The lecture has been rescheduled to tomorrow at 9 AM in Room 302.",Education,Neutral
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Hi, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+"Hey there, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+Check out our new collection of winter wear.,Promotion,Neutral
+"Hello, Do you know what time the library closes today?",Other,Neutral
+"Hello, The lecture has been rescheduled to Monday at 2 PM in Room 302.",Education,Neutral
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Hi, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+"Hey there, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+"The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Dear team, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+"The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+Do you know what time the library closes today?,Other,Neutral
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+"Hello, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+"Hi, Do you know what time the library closes today?",Other,Neutral
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+Do you know what time the library closes today?,Other,Neutral
+"Hello, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hello, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Hey there, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Dear team, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+The weather looks nice outside.,Other,Positive
+"Dear team, Let's schedule a meeting for Wednesday at 10 AM to discuss the roadmap.",Meeting,Neutral
+"Hey there, How do I reset my password? I forgot it.",Customer Support,Neutral
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+My internet connection keeps dropping every five minutes. Fix it.,Complaint,Negative
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+"Hey there, I am looking forward to our catch-up meeting Wednesday.",Meeting,Positive
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+"Dear team, The lecture has been rescheduled to Friday at 4:30 PM in Room 302.",Education,Neutral
+"Hi, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+"Hey there, I left my umbrella at the office.",Other,Neutral
+Make money from home with zero investment. Join our scheme today.,Spam,Neutral
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+"Hey there, Action Required: Update your account security settings before the deadline.",Important,Neutral
+"Hello, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+"You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Dear team, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+The software update completely broke my application workflow.,Complaint,Negative
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+"Hey there, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+"Hi, The weather looks nice outside.",Other,Positive
+Just testing if this email address works.,Other,Neutral
+"Hi, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+My internet connection keeps dropping every five minutes. Fix it.,Complaint,Negative
+"Hi, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+"Dear team, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Hi, Can you send me the latest source code for the new feature?",Work,Neutral
+"Hi, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Dear team, I am looking forward to our catch-up meeting Tuesday.",Meeting,Positive
+"Hi, Here is the recipe for the chocolate cake.",Other,Neutral
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+"Hi, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Hi, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+I am looking forward to our catch-up meeting Monday.,Meeting,Positive
+"Hello, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+"Dear team, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+Your invoice #4923 is attached. Please process the payment by the 15th.,Finance,Neutral
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+Do you know what time the library closes today?,Other,Neutral
+"Dear team, Great job on the presentation today! The client was very impressed.",Work,Positive
+"Hello, Let's schedule a meeting for Monday at 4:30 PM to discuss the roadmap.",Meeting,Neutral
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+We noticed an overdue balance on your account. Please pay immediately to avoid fees.,Finance,Negative
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hey there, The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+Can you pick up some groceries on your way back?,Personal,Neutral
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Hey there, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+"Hello, Let's schedule a meeting for Monday at 10 AM to discuss the roadmap.",Meeting,Neutral
+"Hi, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+I need help configuring the API settings on my dashboard.,Customer Support,Neutral
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hey there, The weather looks nice outside.",Other,Positive
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+The software update completely broke my application workflow.,Complaint,Negative
+The product I received is damaged. I want a full refund immediately.,Complaint,Negative
+"Hello, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Hey there, I am disappointed with the delay in the project delivery. We need to discuss this.",Work,Negative
+"Dear team, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Hey there, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+The lecture has been rescheduled to next week at 9 AM in Room 302.,Education,Neutral
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"Hey there, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+"Hello, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+"Hi, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+"Hi, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+"Hi, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Hello, Just testing if this email address works.",Other,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Hey there, Do you know what time the library closes today?",Other,Neutral
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+The software update completely broke my application workflow.,Complaint,Negative
+"Dear team, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+"Hey there, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+"Dear team, Here is the budget breakdown for the next fiscal year.",Finance,Neutral
+"Hello, Congratulations on passing the final exam with flying colors!",Education,Positive
+"Hi, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+"Hey there, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+"Hi, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+I am looking forward to our catch-up meeting Friday.,Meeting,Positive
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+The weather looks nice outside.,Other,Positive
+"Hey there, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+"Hello, Check out our new collection of winter wear.",Promotion,Neutral
+Can you pick up some groceries on your way back?,Personal,Neutral
+Check out our new collection of winter wear.,Promotion,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hi, I am looking forward to our catch-up meeting Monday.",Meeting,Positive
+Our Black Friday sale starts now! Don't miss out on these huge discounts.,Promotion,Positive
+"Hello, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+"Hello, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Hello, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+"Hello, Check out our new collection of winter wear.",Promotion,Neutral
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+Do you know what time the library closes today?,Other,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+Critical update regarding the company policy changes starting next month.,Important,Neutral
+"Dear team, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+Congratulations! You are the 100th visitor today. Claim your free iPhone.,Spam,Positive
+"Hi, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Hi, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+My internet connection keeps dropping every five minutes. Fix it.,Complaint,Negative
+The weather looks nice outside.,Other,Positive
+"Hey there, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+"Hi, I am disappointed with the delay in the project delivery. We need to discuss this.",Work,Negative
+"Hello, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+Upgrade now to premium and get the first month entirely free.,Promotion,Positive
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+The software update completely broke my application workflow.,Complaint,Negative
+"Hello, Check out our new collection of winter wear.",Promotion,Neutral
+"Hello, I left my umbrella at the office.",Other,Neutral
+"Hello, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hello, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"Hello, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+"Dear team, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+The weather looks nice outside.,Other,Positive
+Great job on the presentation today! The client was very impressed.,Work,Positive
+"Hey there, Thank you for resolving my issue so quickly! Great support.",Customer Support,Positive
+"Dear team, Check out our new collection of winter wear.",Promotion,Neutral
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+"Dear team, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hi, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+"Dear team, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+"Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+Here is the zoom link for our daily standup at 9:30 AM.,Meeting,Neutral
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+"Dear team, Critical update regarding the company policy changes starting next month.",Important,Neutral
+"Hi, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+The software update completely broke my application workflow.,Complaint,Negative
+"Dear team, Thank you for resolving my issue so quickly! Great support.",Customer Support,Positive
+"Hello, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+"Hello, Here is the recipe for the chocolate cake.",Other,Neutral
+I am looking forward to our catch-up meeting next week.,Meeting,Positive
+"Dear team, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"Hi, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+"Hello, The weather looks nice outside.",Other,Positive
+"Hello, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+"Hello, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+"Dear team, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+"Dear team, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+Let's schedule a meeting for Tuesday at 4:30 PM to discuss the roadmap.,Meeting,Neutral
+"Hey there, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hi, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Hello, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Hey there, Great job on the presentation today! The client was very impressed.",Work,Positive
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hello, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+"Dear team, I left my umbrella at the office.",Other,Neutral
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+"Hi, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+"Hey there, Just testing if this email address works.",Other,Neutral
+"Hey there, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+"Dear team, Your computer is infected with a virus! Call this number to fix it.",Spam,Negative
+The weather looks nice outside.,Other,Positive
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"Hello, Check out our new collection of winter wear.",Promotion,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+Let's schedule a meeting for Tuesday at 4:30 PM to discuss the roadmap.,Meeting,Neutral
+"Hello, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+"Hello, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hello, Flash sale! All items are 20% off for the next 24 hours.",Promotion,Positive
+"Dear team, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+"Hey there, Critical update regarding the company policy changes starting next month.",Important,Neutral
+Critical update regarding the company policy changes starting next month.,Important,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Dear team, I left my umbrella at the office.",Other,Neutral
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+"Hello, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Dear team, The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+How do I reset my password? I forgot it.,Customer Support,Neutral
+"Hello, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+Important notice: Your account will be suspended if you do not verify your email.,Important,Negative
+"Dear team, I am struggling with chapter 4. Could you explain the main concept again?",Education,Negative
+"Hi, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+Emergency maintenance will be performed tonight from 12 AM to 4 AM.,Important,Negative
+"Hello, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+"Hello, Your assignment is due on Friday by 11:59 PM via the student portal.",Education,Neutral
+"Hello, Upgrade now to premium and get the first month entirely free.",Promotion,Positive
+Critical update regarding the company policy changes starting next month.,Important,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hey there, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Hello, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hello, Congratulations! You are the 100th visitor today. Claim your free iPhone.",Spam,Positive
+"Hey there, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+"Dear team, The weather looks nice outside.",Other,Positive
+"Hi, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hello, We are excited to offer you the position of Data Scientist at our company!",Job/Career,Positive
+"Dear team, I am looking forward to our catch-up meeting tomorrow.",Meeting,Positive
+Here is the zoom link for our daily standup at 9:30 AM.,Meeting,Neutral
+"Dear team, The lecture has been rescheduled to Wednesday at 4:30 PM in Room 302.",Education,Neutral
+"Dear team, We noticed an overdue balance on your account. Please pay immediately to avoid fees.",Finance,Negative
+"Hi, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hey, are we still on for dinner tonight at 9 AM?",Personal,Neutral
+Do you know what time the library closes today?,Other,Neutral
+"Hi, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+"Dear team, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Hey there, Can you pick up some groceries on your way back?",Personal,Neutral
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+Can you pick up some groceries on your way back?,Personal,Neutral
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+Action Required: Update your account security settings before the deadline.,Important,Neutral
+"Dear team, I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+Action Required: Update your account security settings before the deadline.,Important,Neutral
+"Dear team, Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+The software update completely broke my application workflow.,Complaint,Negative
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+"Dear team, Your payment has been successfully received. Thank you for your business.",Finance,Positive
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+"Hey there, I am writing to request an extension on my project deadline due to a family emergency.",Education,Negative
+Our Black Friday sale starts now! Don't miss out on these huge discounts.,Promotion,Positive
+"Hey there, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+Your assignment is due on Friday by 11:59 PM via the student portal.,Education,Neutral
+"Dear team, The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hey there, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+The lecture has been rescheduled to Monday at 9 AM in Room 302.,Education,Neutral
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+"Hey there, Can you send me the latest source code for the new feature?",Work,Neutral
+"Hi, Please find attached the report for Q3. Let me know if you need any revisions.",Work,Neutral
+Here is the recipe for the chocolate cake.,Other,Neutral
+"Hi, We need to postpone the meeting because key stakeholders are unavailable.",Meeting,Negative
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+"Hey there, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Dear team, Our Black Friday sale starts now! Don't miss out on these huge discounts.",Promotion,Positive
+"Hi, I left my umbrella at the office.",Other,Neutral
+"Hi, The lecture has been rescheduled to Tuesday at 9 AM in Room 302.",Education,Neutral
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+"Hi, I left my umbrella at the office.",Other,Neutral
+"Hello, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+I would like to schedule an interview with you for next Tuesday at 11 AM.,Job/Career,Neutral
+Check out our new collection of winter wear.,Promotion,Neutral
+I am looking forward to our catch-up meeting tomorrow.,Meeting,Positive
+Congratulations on passing the final exam with flying colors!,Education,Positive
+"The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+"Dear team, Get 50% off your next purchase using this exclusive promo code!",Promotion,Positive
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+"Dear team, Here is the zoom link for our daily standup at 9:30 AM.",Meeting,Neutral
+"The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+"Hi, I am disappointed with the delay in the project delivery. We need to discuss this.",Work,Negative
+"Dear team, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+I am looking forward to our catch-up meeting Monday.,Meeting,Positive
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hey there, I am looking forward to our catch-up meeting Tuesday.",Meeting,Positive
+"Hi, I am looking forward to our catch-up meeting Tuesday.",Meeting,Positive
+"Dear team, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+"Hey there, I am disputing the recent charge of $50 on my credit card. It was not authorized.",Finance,Negative
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Dear team, The software update completely broke my application workflow.",Complaint,Negative
+"Dear team, Unfortunately, we will not be moving forward with your application at this time.",Job/Career,Negative
+"Hey there, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hey there, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+I am struggling with chapter 4. Could you explain the main concept again?,Education,Negative
+"Hello, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+It was wonderful seeing you over the weekend. Let's catch up again soon!,Personal,Positive
+The meeting yesterday was very productive. Thanks for organizing.,Meeting,Positive
+"Dear team, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
+Your payment has been successfully received. Thank you for your business.,Finance,Positive
+"Hey there, Just testing if this email address works.",Other,Neutral
+Here is the recipe for the chocolate cake.,Other,Neutral
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+How do I reset my password? I forgot it.,Customer Support,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Dear team, The weather looks nice outside.",Other,Positive
+Make money from home with zero investment. Join our scheme today.,Spam,Neutral
+Happy Birthday! Hope you have a fantastic day.,Personal,Positive
+"The server is down again. This is unacceptable, please fix it ASAP.",Work,Negative
+I am disputing the recent charge of $50 on my credit card. It was not authorized.,Finance,Negative
+Congratulations on passing the final exam with flying colors!,Education,Positive
+Do you know what time the library closes today?,Other,Neutral
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+Do you know what time the library closes today?,Other,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+Here is the recipe for the chocolate cake.,Other,Neutral
+Let's schedule a meeting for Monday at 4:30 PM to discuss the roadmap.,Meeting,Neutral
+Can you send me the latest source code for the new feature?,Work,Neutral
+I have been trying to reach support for days with no response. This is frustrating.,Complaint,Negative
+"Hi, Happy Birthday! Hope you have a fantastic day.",Personal,Positive
+"Dear team, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Hello, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+I am looking forward to our catch-up meeting tomorrow.,Meeting,Positive
+"Hi, Just testing if this email address works.",Other,Neutral
+"Dear team, Lose weight fast with this miracle pill. Buy now!",Spam,Neutral
+"Hello, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+Can someone please guide me on how to upgrade my subscription plan?,Customer Support,Neutral
+Here is the zoom link for our daily standup at 9:30 AM.,Meeting,Neutral
+"Hello, Here is the recipe for the chocolate cake.",Other,Neutral
+I am looking forward to our catch-up meeting Monday.,Meeting,Positive
+"Hello, Here is the recipe for the chocolate cake.",Other,Neutral
+"Hey there, Critical update regarding the company policy changes starting next month.",Important,Neutral
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+Action Required: Update your account security settings before the deadline.,Important,Neutral
+Here is the budget breakdown for the next fiscal year.,Finance,Neutral
+The product I received is damaged. I want a full refund immediately.,Complaint,Negative
+"Dear team, The meeting yesterday was very productive. Thanks for organizing.",Meeting,Positive
+"Hey there, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+"Dear team, I have been trying to reach support for days with no response. This is frustrating.",Complaint,Negative
+I am disappointed with the delay in the project delivery. We need to discuss this.,Work,Negative
+Please find attached the report for Q3. Let me know if you need any revisions.,Work,Neutral
+"Dear team, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+Here is the recipe for the chocolate cake.,Other,Neutral
+The lecture has been rescheduled to Thursday at 10 AM in Room 302.,Education,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hey there, The product I received is damaged. I want a full refund immediately.",Complaint,Negative
+"Hey there, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+"Hello, The weather looks nice outside.",Other,Positive
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+Great job on the presentation today! The client was very impressed.,Work,Positive
+"Hi, Can someone please guide me on how to upgrade my subscription plan?",Customer Support,Neutral
+The product I received is damaged. I want a full refund immediately.,Complaint,Negative
+"Hello, Important notice: Your account will be suspended if you do not verify your email.",Important,Negative
+"Hi, Your invoice #4923 is attached. Please process the payment by the 15th.",Finance,Neutral
+The lecture has been rescheduled to Wednesday at 4:30 PM in Room 302.,Education,Neutral
+"Dear team, You have won $1,000,000! Click here to claim your prize immediately.",Spam,Positive
+Great job on the presentation today! The client was very impressed.,Work,Positive
+"Dear team, The lecture has been rescheduled to tomorrow at 9 AM in Room 302.",Education,Neutral
+"I'm sorry, I won't be able to make it to your party. Feeling a bit sick.",Personal,Negative
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+Please find my resume attached for the Software Engineer position.,Job/Career,Neutral
+"Dear team, The service at your restaurant was terrible. I waited an hour for my food.",Complaint,Negative
+We need to postpone the meeting because key stakeholders are unavailable.,Meeting,Negative
+"Hello, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+Lose weight fast with this miracle pill. Buy now!,Spam,Neutral
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+URGENT: The production database is down. We need immediate assistance.,Important,Negative
+"Hi, I need help configuring the API settings on my dashboard.",Customer Support,Neutral
+Check out our new collection of winter wear.,Promotion,Neutral
+Thank you for resolving my issue so quickly! Great support.,Customer Support,Positive
+The service at your restaurant was terrible. I waited an hour for my food.,Complaint,Negative
+Let's schedule a meeting for Monday at 10 AM to discuss the roadmap.,Meeting,Neutral
+"Hello, Thank you for your guidance, I learned a lot during my internship.",Job/Career,Positive
+"The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+Great job on the presentation today! The client was very impressed.,Work,Positive
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+"Dear team, Thank you for resolving my issue so quickly! Great support.",Customer Support,Positive
+"Hey there, Can you pick up some groceries on your way back?",Personal,Neutral
+"Hi, The new feature is amazing, thanks for adding it based on my request.",Customer Support,Positive
+"Hey there, Can you pick up some groceries on your way back?",Personal,Neutral
+Get 50% off your next purchase using this exclusive promo code!,Promotion,Positive
+Your computer is infected with a virus! Call this number to fix it.,Spam,Negative
+"Hey there, Let's schedule a meeting for Tuesday at 9 AM to discuss the roadmap.",Meeting,Neutral
+"Hey, are we still on for dinner tonight at 2 PM?",Personal,Neutral
+"Hi, Action Required: Update your account security settings before the deadline.",Important,Neutral
+Check out our new collection of winter wear.,Promotion,Neutral
+"Hey there, I would like to schedule an interview with you for next Tuesday at 11 AM.",Job/Career,Neutral
+Flash sale! All items are 20% off for the next 24 hours.,Promotion,Positive
+"Hi, Make money from home with zero investment. Join our scheme today.",Spam,Neutral
+I am writing to request an extension on my project deadline due to a family emergency.,Education,Negative
+"Hi, Let's schedule a meeting for Tuesday at 12 PM to discuss the roadmap.",Meeting,Neutral
+The software update completely broke my application workflow.,Complaint,Negative
+"Hello, The lecture has been rescheduled to tomorrow at 9 AM in Room 302.",Education,Neutral
+We are excited to offer you the position of Data Scientist at our company!,Job/Career,Positive
+"Dear team, Please find my resume attached for the Software Engineer position.",Job/Career,Neutral
+"Dear team, Emergency maintenance will be performed tonight from 12 AM to 4 AM.",Important,Negative
