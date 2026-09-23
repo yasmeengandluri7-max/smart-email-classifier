@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "smart_email_classifier.app:app"
