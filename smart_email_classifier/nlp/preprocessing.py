@@ -5,14 +5,20 @@ from nltk.stem import WordNetLemmatizer
 
 # In a real environment, we'd ensure these are downloaded. 
 # We will add a script or handle this in the main app.
+import os
+nltk_dir = '/tmp/nltk_data'
+if not os.path.exists(nltk_dir):
+    os.makedirs(nltk_dir)
+nltk.data.path.append(nltk_dir)
+
 try:
     nltk.data.find('corpora/stopwords')
 except LookupError:
-    nltk.download('stopwords')
+    nltk.download('stopwords', download_dir=nltk_dir)
 try:
     nltk.data.find('corpora/wordnet')
 except LookupError:
-    nltk.download('wordnet')
+    nltk.download('wordnet', download_dir=nltk_dir)
 
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
@@ -39,3 +45,4 @@ def preprocess_text(text):
     
     # 6. Rejoin text
     return ' '.join(cleaned_tokens)
+

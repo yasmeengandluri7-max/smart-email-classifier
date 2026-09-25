@@ -14,10 +14,14 @@ def summarize_email(text, num_sentences=2):
         sentences = sent_tokenize(text)
     except LookupError:
         # Fallback if punkt is not downloaded somehow
-        nltk.download('punkt')
+        import os
+        nltk_dir = '/tmp/nltk_data'
+        if not os.path.exists(nltk_dir):
+            os.makedirs(nltk_dir)
+        nltk.data.path.append(nltk_dir)
+        nltk.download('punkt', download_dir=nltk_dir)
         try:
-             # Punkt is now split in some NLTK versions, handle gracefully
-             nltk.download('punkt_tab')
+             nltk.download('punkt_tab', download_dir=nltk_dir)
         except:
              pass
         sentences = sent_tokenize(text)
@@ -50,3 +54,4 @@ def summarize_email(text, num_sentences=2):
     summary_sentences.sort(key=lambda x: sentences.index(x))
     
     return " ".join(summary_sentences)
+
